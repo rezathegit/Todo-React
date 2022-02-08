@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App test suite renders correctly 1`] = `
+<div
+  className="App"
+>
+  <header>
+    <h1>
+      Todo App
+    </h1>
+    <span
+      className="material-icons-outlined"
+    >
+      face
+    </span>
+  </header>
+  <form>
+    <input
+      className="todo-input"
+      onChange={[Function]}
+      placeholder="What to do?"
+      type="text"
+      value=""
+    />
+    <button
+      className="todo-button"
+      onClick={[Function]}
+      type="submit"
+    >
+      <span
+        className="material-icons-outlined"
+      >
+        add
+      </span>
+    </button>
+  </form>
+  <p
+    className="input-error"
+  >
+    
+  </p>
+  <div
+    className="todo-container"
+  >
+    <ul
+      className="todo-list"
+    />
+  </div>
+</div>
+`;
