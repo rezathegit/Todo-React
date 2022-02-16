@@ -1,6 +1,6 @@
 # Todo App with React
 
-See it live here: https://admiring-lamport-0cd435.netlify.app/
+Check out the app deployed on [Netlify](https://admiring-lamport-0cd435.netlify.app/)
 
 
 
