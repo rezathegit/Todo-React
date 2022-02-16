@@ -2,8 +2,23 @@
 
 Check out the app deployed on [Netlify](https://admiring-lamport-0cd435.netlify.app/)
 
+## File and folder structure 
 
-
+````
+.
+├── App.css
+├── App.js
+├── App.test.js
+├── __snapshots__
+│   └── App.test.js.snap
+├── components
+│   ├── Todo.js
+│   ├── TodoForm.js
+│   └── TodoList.js
+├── index.css
+├── index.js
+└── setupTests.js
+````
 ---
 # Getting Started with Create React App
 
